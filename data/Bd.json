@@ -1,0 +1,81 @@
+[
+    {
+        "id": 1,
+        "placa": "ABC001",
+        "marca": "Mazda",
+        "logoMarca":"https://logodownload.org/wp-content/uploads/2019/11/mazda-logo-1.png",
+        "modelo": 2010,
+        "propietario":"Alexander Torres",
+        "FecVisitas":[
+            "05-01-2022",
+            "17-02-2022",
+            "24-03-2022"
+        ],
+        "MotivoVisita":[
+            "Cambio de aceite",
+            "Revision técnico mecánica",
+            "Cambio de pastillas de frenos"
+        ],
+        "articulosComprados":[
+            "Aceite",
+            "Pastillas de frenos"
+        ],
+        "fecCompra":[
+            "05-01-2022",
+            "24-03-2022"
+        ],
+        "valorCompra":[
+            35000,
+            45000
+        ]
+    },
+    {
+        "id": 2,
+        "placa": "DEF001",
+        "marca": "Toyota",
+        "logoMarca":"http://assets.stickpng.com/images/580b57fcd9996e24bc43c4a3.png",
+        "modelo": 2018,
+        "propietario":"Maria Castro",
+        "FecVisitas":[
+            "11-01-2022",
+            "12-01-2022"
+        ],
+        "MotivoVisita":[
+            "Fallo electrico",
+            "Fallo electrico"
+        ],
+        "articulosComprados":[
+            
+        ],
+        "fecCompra":[
+            
+        ],
+        "valorCompra":[
+            
+        ]
+    },
+    {
+        "id": 3,
+        "placa": "GHI002",
+        "marca": "BMW",
+        "logoMarca":"https://w7.pngwing.com/pngs/902/326/png-transparent-bmw-x1-car-bmw-i-bmw-3-series-bmw-emblem-trademark-logo.png",
+        "modelo": 2022,
+        "propietario":"Ana Espinosa",
+        "FecVisitas":[
+            "24-03-2022"
+        ],
+        "MotivoVisita":[
+            "Revisión general"
+        ],
+        "articulosComprados":[
+            "Luces Led"
+        ],
+        "fecCompra":[
+            "24-03-2022"
+        ],
+        "valorCompra":[
+            60000
+        ]
+    }
+    
+]
